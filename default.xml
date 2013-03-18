@@ -27,6 +27,9 @@
   <project path="python-heatclient" name="python-heatclient" />
   <project path="python-openstackclient" name="python-openstackclient" />
 
+  <project path="oslo-incubator" name="oslo-incubator" />
+  <project path="oslo.config" name="oslo.config" />
+
   <project path="noVNC" name="noVNC" />
 
   <project path="requirements" name="requirements" />
