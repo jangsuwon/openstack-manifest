@@ -33,6 +33,6 @@
 
   <project path="openstack-manuals" name="openstack-manuals" />
 
-  <project path="tempest" mame="tempest" />
+  <project path="tempest" name="tempest" />
 
 </manifest>
