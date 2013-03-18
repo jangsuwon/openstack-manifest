@@ -31,7 +31,7 @@
 
   <project path="requirements" name="requirements" />
 
-  <project path-"openstack-manuals" name="openstack-manuals" />
+  <project path="openstack-manuals" name="openstack-manuals" />
 
   <project path="tempest" mame="tempest" />
 
