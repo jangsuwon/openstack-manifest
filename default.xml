@@ -7,6 +7,32 @@
            remote="openstack-github"
            sync-j="4" />
 
-  <project name="keystone"/>
+  <project path="nova" name="nova" />
+  <project path="keystone" name="keystone" />
+  <project path="glance" name="glance" />
+  <project path="swift" name="swift" />
+  <project path="cinder" name="cinder" />
+  <project path="quantum" name="quantum" />
+  <project path="ceilometer" name="ceilometer" />
+  <project path="heat" name="heat" />
+  <project path="horizon" name="horizon" />
+  <project path="heat-cfntools" name="heat-cfntools" />
+  <project path="python-novaclient" name="python-novaclient" />
+  <project path="python-keystoneclient" name="python-keystoneclient" />
+  <project path="python-glanceclient" name="python-glanceclient" />
+  <project path="python-swiftclient" name="python-swiftclient" />
+  <project path="python-cinderclient" name="python-cinderclient" />
+  <project path="python-quantumclient" name="python-quantumclient" />
+  <project path="python-ceilometerclient" name="python-ceilometerclient" />
+  <project path="python-heatclient" name="python-heatclient" />
+  <project path="python-openstackclient" name="python-openstackclient" />
+
+  <project path="noVNC" name="noVNC" />
+
+  <project path="requirements" name="requirements" />
+
+  <project path-"openstack-manuals" name="openstack-manuals" />
+
+  <project path="tempest" mame="tempest" />
 
 </manifest>
