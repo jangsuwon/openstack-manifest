@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="openstack-github"
+    fetch="https://github.com/openstack/" />"
+  <default revision="master"
+           remote="openstack-github"
+           sync-j="4" />
+
+  <project name="keystone"/>
+
+</manifest>
